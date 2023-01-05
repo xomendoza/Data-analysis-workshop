@@ -1,2 +1,3 @@
-# Data-analysis-workshop
-It consists of my work on a data analysis workshop
+# Data-analysis-
+The Pandas Workshop
+I share my activities of the The Pandas Workshop Book
